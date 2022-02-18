@@ -2,5 +2,5 @@
 
 ## Amma bad bitch
 
-<img src="Sourses/gifback.gif" alt="демо">
+<img src="src/gifback.gif" alt="демо">
 
