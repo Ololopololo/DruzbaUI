@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Куриный окорок, охлажденный",
+        "id": 0,
+        "isCart": false,
+        "description": "Картофель описание",
+        "imageName": "potato",
+        "price": "200.00",
+        "sale": "50%",
+        "salePrice":"100.00"
+    },
+    {
+        "name": "Клубника",
+        "id": 2,
+        "isCart": false,
+        "description": "Клубника описание",
+        "imageName": "strawberry",
+        "price": "200.00",
+        "sale": "50%",
+        "salePrice":"100.00"
+    },
+    {
+        "name": "Клубника",
+        "id": 3,
+        "isCart": false,
+        "description": "Клубника описание",
+        "imageName": "strawberry",
+        "price": "100.00",
+        "sale": "50%",
+        "salePrice":"50.00"
+    },
+    {
+        "name": "Клубника",
+        "id": 4,
+        "isCart": false,
+        "description": "Клубника описание",
+        "imageName": "strawberry",
+        "price": "100.00",
+        "sale": "50%",
+        "salePrice":"50.00"
+    },
+    {
+        "name": "Клубника",
+        "id": 5,
+        "isCart": false,
+        "description": "Клубника описание",
+        "imageName": "strawberry",
+        "price": "100.00",
+        "sale": "50%",
+        "salePrice":"50.00"
+    },
+    {
+        "name": "Клубника",
+        "id": 6,
+        "isCart": false,
+        "description": "Клубника описание",
+        "imageName": "strawberry",
+        "price": "100.00",
+        "sale": "50%",
+        "salePrice":"50.00"
+    },
+    {
+        "name": "Клубника",
+        "id": 7,
+        "isCart": false,
+        "description": "Клубника описание",
+        "imageName": "strawberry",
+        "price": "100",
+        "sale": "50%",
+        "salePrice":"50.00"
+    },
+    {
+        "name": "Клубника",
+        "id": 8,
+        "isCart": false,
+        "description": "Клубника описание",
+        "imageName": "strawberry",
+        "price": "100.00",
+        "sale": "50%",
+        "salePrice":"50.00"
+    },
+    {
+        "name": "Клубника",
+        "id": 9,
+        "isCart": false,
+        "description": "Клубника описание",
+        "imageName": "strawberry",
+        "price": "100.00",
+        "sale": "50%",
+        "salePrice":"50.00"
+    },
+    {
+        "name": "Клубника",
+        "id": 10,
+        "isCart": false,
+        "description": "Клубника описание",
+        "imageName": "strawberry",
+        "price": "100.00",
+        "sale": "50%",
+        "salePrice":"50.00"
+    },
+    {
+        "name": "Клубника",
+        "id": 11,
+        "isCart": false,
+        "description": "Клубника описание",
+        "imageName": "strawberry",
+        "price": "100.00",
+        "sale": "50%",
+        "salePrice":"50.00"
+    }
+]
